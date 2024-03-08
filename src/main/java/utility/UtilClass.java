@@ -1,10 +1,12 @@
 package utility;
 
 
+import io.opentelemetry.context.Context;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.seleniumhq.jetty9.server.handler.ContextHandler;
 
 import java.util.Collections;
 
@@ -40,6 +42,14 @@ public class UtilClass {
         chromeOptions.setExperimentalOption("useAutomationExtension", false);
         chromeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
         chromeOptions.addArguments("--remote-allow-origins=*");
+        chromeOptions.addArguments("--ignore-ssl-errors=yes");
+        chromeOptions.addArguments("--ignore-certificate-errors");
+        chromeOptions.addArguments("--allow-insecure-localhost");
+        chromeOptions.addArguments("--allow-running-insecure-content");
+        chromeOptions.addArguments("--incognito");
+
+
+       // chromeOptions.addArguments("--headless=new");
        // chromeOptions.setBinary("C:\\Program Files\\Google\\Chrome" +
               //  "\\Application\\chrome.exe");
                 //chromeOptions.addArguments("--ignore-certificate-errors," +
@@ -48,7 +58,8 @@ public class UtilClass {
         chromeOptions.setAcceptInsecureCerts(true);
         driver = new ChromeDriver(chromeOptions);
 
-        driver.manage().deleteAllCookies();
+        //driver.manage().deleteAllCookies();
+
 
         setDriver(driver);
 

@@ -30,6 +30,7 @@ public class UserNamePage extends BaseFunctions {
     public static void enterusername(WebDriver driver) throws InterruptedException {
 
         //Launch the URL in the chrome driver
+        driver.manage().deleteAllCookies();
         driver.get(Constants.OMS_URL);
         driver.manage().window().maximize();
         Log.info("Launched IBM application");
