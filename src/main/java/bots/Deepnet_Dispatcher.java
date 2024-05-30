@@ -1,5 +1,6 @@
-package bot;
+package bots;
 
+import exceptionutil.ApplicationException;
 import org.json.JSONObject;
 import utils.*;
 
@@ -54,7 +55,7 @@ public class Deepnet_Dispatcher {
             strWorkitemQueue = Constant.WORKITEM_QUEUE;
 
             // Initialize logging
-            UtilityClass.initialiseLog4j();
+            DispatcherUtilityClass.initialiseLog4j();
             Log.info("Starting DeepnetTerminationDispatcher...");
 
             // Kill CSV
@@ -168,7 +169,7 @@ public class Deepnet_Dispatcher {
                                 reason = failurereason.toString();
                                 DatabaseUtil.updateDatabase("reason",reason,
                                         intId);
-                                UtilClass.sendEmail(exceptionType,exceptionMessage,
+                                UtilClassDispatcher.sendEmail(exceptionType,exceptionMessage,
                                         Constant.DispatcherprocessName);
                             }
                             System.out.println("No More transactions in the Queue to Process");
@@ -185,7 +186,7 @@ public class Deepnet_Dispatcher {
             }
         } catch (Exception e) {
             Log.error("Dispatcher failed: " + e.getMessage());
-            UtilClass.sendEmail("SystemException",e.getMessage(),
+            UtilClassDispatcher.sendEmail("SystemException",e.getMessage(),
                     Constant.DispatcherprocessName);
             throw new ApplicationException(e.getMessage());
         }

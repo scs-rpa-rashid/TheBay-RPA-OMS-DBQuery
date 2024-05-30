@@ -13125,3 +13125,14 @@ Session ID: e16a5781f1fc490b86f848287ba1c719
 2024-05-30 09:09:30,632 INFO  [Log] Email was removed successfully from Google sheet 
 2024-05-30 09:09:30,636 INFO  [Log] Updated columns for id: 1312 
 2024-05-30 09:09:30,636 INFO  [Log] File Upload process completed successfully 
+2024-05-30 22:32:39,334 INFO  [Log] BOT user: H895876 
+2024-05-30 22:32:39,335 INFO  [Log] Killing Chrome process 
+2024-05-30 22:32:45,267 ERROR [Log] Failed to login to Deepnet Application due to :no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.112)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8327dd2d3557a2259964b41e3cb8e255, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 125.0.6422.112, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\Users\H895876\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56315}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56315/devtoo..., se:cdpVersion: 125.0.6422.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8327dd2d3557a2259964b41e3cb8e255 
