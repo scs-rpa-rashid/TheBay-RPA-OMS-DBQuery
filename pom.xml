@@ -206,7 +206,7 @@
                 <version>3.2.0</version>
                 <executions>
                     <execution>
-                        <id>execute-DeepNet_Termination</id>
+                        <id>execute-deepNet_Performer</id>
                         <phase>compile</phase>
                         <goals>
                             <goal>java</goal>
