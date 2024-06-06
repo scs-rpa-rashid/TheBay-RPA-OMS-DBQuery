@@ -193,8 +193,6 @@
             <groupId>com.scs.rpautils</groupId>
             <artifactId>rpautils</artifactId>
             <version>1.0.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/SCS-RPA-CommonUtils.jar</systemPath>
         </dependency>
 
     </dependencies>
