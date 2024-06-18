@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OMS DB Query" >
+    <listeners>
+        <listener class-name="testng.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="Test performer" >
+        <classes>
+            <class name="bots.HBOMSDbQueryPerformer" />
+        </classes>
+    </test>
+</suite>

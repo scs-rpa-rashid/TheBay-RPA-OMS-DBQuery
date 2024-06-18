@@ -1,18 +1,13 @@
 package pages;
 
-import org.apache.log4j.xml.DOMConfigurator;
+import logutil.Log;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import utility.BaseFunctions;
-import utility.Log;
 import utility.Constants;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-
 public class UserNamePage extends BaseFunctions {
-
-
 
     @FindBy (id="username")
     static WebElement usernamefield;
@@ -25,20 +20,26 @@ public class UserNamePage extends BaseFunctions {
 
     @FindBy (id="signinbutton")
     static WebElement signinfield;
-
+static String strExceptionMessage;
 
     public static void enterusername(WebDriver driver) throws InterruptedException {
 
         //Launch the URL in the chrome driver
-        driver.get(Constants.OMS_URL);
-        driver.manage().window().maximize();
-        Log.info("Launched IBM application");
-        String username = Constants.USER_NAME;
+            driver.manage().deleteAllCookies();
+            Log.info("Deleted cookies");
+            driver.get(Constants.OMS_URL);
+            driver.manage().window().maximize();
+            Log.info("Launched IBM application in chrome");
+            String username = Constants.USER_NAME;
 
-        WebDriverWait wait =new WebDriverWait(driver,Constants.WAIT_TIME);
+            WebDriverWait wait = new WebDriverWait(driver, Constants.WAIT_TIME);
 
-        type(usernamefield,username,wait);
-        click(continuebtn,wait);
+            type(usernamefield, username, wait);
+            click(continuebtn, wait);
+            Log.info("Entered username");
+
+
+        }
 
     }
-}
+
