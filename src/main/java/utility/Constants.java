@@ -14,7 +14,7 @@ public class Constants {
    public  static String INPUT_FILE="\\\\10.124.234.5\\FileServer\\OMSQueueMonitoring\\ThresholdLimitFile\\BAY OMoC Monitoring via RPA.xlsx";
    public static String OMS_URL = "https://hudsn-prod-1.oms.supply-chain.ibm.com/smcfs/yfshttpdbi/sterlingdbqueryclient.jsp";
    public static  String USER_NAME = "srvc_oms_automation@hbc.com";
-   public static String PASSWORD = "HBCINDIAPassw0rd10";
+   public static String PASSWORD = "HBCINDIAPassw0rd2024";
    public static Duration WAIT_TIME = Duration.ofSeconds(60);
    public static Duration LOADER_WAIT_TIME = Duration.ofSeconds(180);
     public static Duration LOGIN_ERROR_WAIT_TIME=Duration.ofSeconds(10);
@@ -27,8 +27,8 @@ public class Constants {
    public static String SENDER_MAILADDRESS = "ibmacct@iam.ibm.com";
    public static String OTP_MAIL_SUBJECT =
            "[EXTERNAL] Verify your identity"; //space before and after variable
-   public static String IMAP_USERNAME = "srvc_oms_automation@hbc.com";
-   public static String IMAP_PASSWORD = "wpdcyaevmtbvgbgi";
+   public static String IMAP_USERNAME = "rpa@hbc.com";
+   public static String IMAP_PASSWORD = "iigpohqqpeghxsmx";
    public static String INPUT_SHEET = "ProposedTemplate_30Minutes";
    public static String TIME_ZONE="America/New_York";
    public static String TIME_FORMAT="H:mm";

@@ -5,10 +5,7 @@ import exceptionutil.BusinessException;
 import model.QueueItem;
 import org.json.JSONObject;
 import org.openqa.selenium.WebDriver;
-import pages.EnterOTPPage;
-import pages.ExecuteDbQueryPage;
-import pages.LoginPage;
-import pages.OTPVerificationPage;
+import pages.*;
 import queueutils.QueueItemUtils;
 import utility.*;
 import logutil.Log;
@@ -91,6 +88,8 @@ public class TheBay_OMS_DBQuery_Performer_Framework {
             driver = util.getDriver();
             LoginPage loginPage = new LoginPage(driver);
             loginPage.login(driver);
+            IBMidPage ibMidPage= new IBMidPage(driver);
+            ibMidPage.sendOTP(driver);
             OTPVerificationPage otppage = new OTPVerificationPage(driver);
             //Capture partial OTP
             strPartialotp = otppage.capturePartialOTP();

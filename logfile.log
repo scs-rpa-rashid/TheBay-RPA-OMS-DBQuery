@@ -9631,3 +9631,691 @@ Exception source: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bound
 2024-05-20 11:05:52,533 INFO  [Log] Email sent successfully. 
 2024-05-20 11:05:52,539 INFO  [Log] Updated columns for id: 81 
 2024-05-20 11:05:52,539 INFO  [Log] Updating Transaction status 
+2024-06-14 08:31:52,108 INFO  [Log] Property file loaded: propertyfiles/dbquery.properties 
+2024-06-14 08:31:52,109 INFO  [Log] BOT user: aws_rpa_devbot0 
+2024-06-14 08:31:52,109 INFO  [Log] Killing Excel process 
+2024-06-14 08:31:52,498 INFO  [Log] Launching chrome driver 
+2024-06-14 08:31:56,280 INFO  [Log] Deleted cookies 
+2024-06-14 08:31:58,441 INFO  [Log] Launched IBM application in chrome 
+2024-06-14 08:31:59,150 INFO  [Log] Entered username 
+2024-06-14 08:31:59,280 INFO  [Log] Property file loaded: propertyfiles/dbquery.properties 
+2024-06-14 08:31:59,281 INFO  [Log] BOT user: aws_rpa_devbot0 
+2024-06-14 08:31:59,281 INFO  [Log] Killing Excel process 
+2024-06-14 08:31:59,506 INFO  [Log] Launching chrome driver 
+2024-06-14 08:32:00,593 INFO  [Log] Clicked on Sign-in 
+2024-06-14 08:32:00,779 ERROR [Log] Login error: Incorrect IBMid or password. Please try again! 
+2024-06-14 08:32:00,779 ERROR [Log] Initialisation failure: Failed to login to IBM application due to: Incorrect IBMid or password. Please try again!
+Exception source: exceptionutil.ApplicationException: Incorrect IBMid or password. Please try again! 
+2024-06-14 08:32:00,779 ERROR [Log] Exception source: null 
+2024-06-14 08:32:00,779 ERROR [Log] Exception message: Initialisation failure: Failed to login to IBM application due to: Incorrect IBMid or password. Please try again!
+Exception source: exceptionutil.ApplicationException: Incorrect IBMid or password. Please try again! 
+2024-06-14 08:32:00,832 INFO  [Log] No Attachments Supplied for the Email 
+2024-06-14 08:32:01,084 INFO  [Log] Email sent successfully. 
+2024-06-14 08:32:02,942 INFO  [Log] Deleted cookies 
+2024-06-14 08:32:04,867 INFO  [Log] Launched IBM application in chrome 
+2024-06-14 08:32:05,376 INFO  [Log] Entered username 
+2024-06-14 08:32:06,381 INFO  [Log] Clicked on Sign-in 
+2024-06-14 08:32:06,666 ERROR [Log] Login error: Incorrect IBMid or password. Please try again! 
+2024-06-14 08:32:06,666 ERROR [Log] Initialisation failure: Failed to login to IBM application due to: Incorrect IBMid or password. Please try again!
+Exception source: exceptionutil.ApplicationException: Incorrect IBMid or password. Please try again! 
+2024-06-14 08:32:06,666 ERROR [Log] Exception source: null 
+2024-06-14 08:32:06,666 ERROR [Log] Exception message: Initialisation failure: Failed to login to IBM application due to: Incorrect IBMid or password. Please try again!
+Exception source: exceptionutil.ApplicationException: Incorrect IBMid or password. Please try again! 
+2024-06-14 08:32:06,718 INFO  [Log] No Attachments Supplied for the Email 
+2024-06-14 08:32:06,894 INFO  [Log] Email sent successfully. 
+2024-06-14 08:35:24,269 INFO  [Log] Property file loaded: propertyfiles/dbquery.properties 
+2024-06-14 08:35:24,270 INFO  [Log] BOT user: aws_rpa_devbot0 
+2024-06-14 08:35:24,270 INFO  [Log] Killing Excel process 
+2024-06-14 08:35:24,555 INFO  [Log] Launching chrome driver 
+2024-06-14 08:35:27,095 INFO  [Log] Deleted cookies 
+2024-06-14 08:35:28,798 INFO  [Log] Launched IBM application in chrome 
+2024-06-14 08:35:29,321 INFO  [Log] Entered username 
+2024-06-14 08:35:31,166 INFO  [Log] Clicked on Sign-in 
+2024-06-14 08:35:42,182 INFO  [Log] Capturing partial OTP from IBM page 
+2024-06-14 08:35:42,265 INFO  [Log] Partial OTP captured: 2238- 
+2024-06-14 08:37:47,331 INFO  [Log] Getting OTP mail... 
+2024-06-14 08:37:47,332 INFO  [Log] Email count: 73910 
+2024-06-14 08:37:47,999 INFO  [Log] Mail body: <html>
+        <head>
+            <title>Email Verify</title>
+        </head>
+        <body style="background-color : #F7F5F5">
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; margin:0 auto;">
+            <tr>
+                <td></td>
+                <td width="500" style="height:30px; line-height:30px;"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left" style="font-family:  Helvetica , Arial , sans-serif ">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td style="background-color:#fff;" width="500">
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td align="right" style="padding:20px 20px 0;"><a href="https://protect.checkpoint.com/v2/___https://www.ibm.com/___.YzJ1Omh1ZHNvbnNiYXljb21wYW55OmM6Zzo1MWE3ZmIyZDNiYzVjNWUxOWEyYzc5YzE5ZGNhNDRhMzo2OmJjOGM6ZGQ3OGM2YjFjMGI5NDdhMGU1NmYyMGQ4NDAyNGU5MzkyNTA1MjE1OWFmMmZkM2E1YTg2Yjg4YTg0YzE4NzE1YzpoOlQ" title="Protected by Check Point: https://www.ibm.com/" target="_blank">
+                                            <img src="https://www.ibm.com/account/ibmidutil/img/Email_Logo_small.png" border="0"
+                                                 alt="IBM" title="IBM" style="float:right; margin:-50px -10px 0 0;"/></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding:0 20px 80px; font-weight:lighter;">
+                                            <h2 style="margin:5px 0 0; font-weight:lighter; font-size:30px">IBM verify code</h2>
+                                            <p style="margin:30px 0 0 0;">Please use the following verification code:</p>
+                                            <p style="margin:15px 0 0; font-weight:normal; font-size:40px; color: #5596E6;">2238-772811</p>
+                                            <p style="margin:15px 0 80px 0;">You can only use it once and it will expire after 20min.</p>
+                                            <p style="margin:30px 0 0 0;">If you did not request this, please disregard this email and contact our
+                                                <a href="https://protect.checkpoint.com/v2/___https://www.ibm.com/account/profile/us?page=reghelpdesk___.YzJ1Omh1ZHNvbnNiYXljb21wYW55OmM6Zzo1MWE3ZmIyZDNiYzVjNWUxOWEyYzc5YzE5ZGNhNDRhMzo2OjcxM2U6NDc4MjM1MTNjNWVkNmI0ZTM4ZmFiMzk1ZWY0MzZhZGUxZTZmNmU1NjRjM2ViN2Q4MWQxMzlmYjQ2ODg2NDMwYzpoOlQ" title="Protected by Check Point: https://www.ibm.com/account/profile/us?page=reghelpdesk"
+                                                        style="color:#2e75d9; text-decoration:none;" target="_blank">helpdesk</a>.
+                                            </p>
+                                            <hr style="margin:30px 0 0 0; border:none; height:1px; width:100%; background-color:#d4d4d4;"/>
+                                            <p style="margin:30px 0 0 0; font-size:14px;">Do not reply to this automated email.</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:#000; padding:40px 20px; color:#fff; font-size:10px; line-height:1.6em">
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td colspan="2">
+                                            <p><a href="https://protect.checkpoint.com/v2/___https://www.ibm.com/___.YzJ1Omh1ZHNvbnNiYXljb21wYW55OmM6Zzo1MWE3ZmIyZDNiYzVjNWUxOWEyYzc5YzE5ZGNhNDRhMzo2OjA0NTc6MzJhYzNhNGJmYWY5YjQ2ZDRjOTNkYzcyMWY5MTMwZGY0M2Y2YzlkMDM0MGIyY2Y3M2ViODM4ODJhYWEwNjU1MzpoOlQ" title="Protected by Check Point: https://www.ibm.com/" target="_blank"><img border="0" alt="IBM" title="IBM"
+                                                    src="https://www.ibm.com/account/ibmidutil/img/IBM_logo_med.png"/></a>
+                                            </p>
+                                            <hr style="margin:20px 0; border:none; height:1px; width:100%; background-color:#404040;"/>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color:#000; padding:20px 0px; color:#B7ADAD; font-size:10px; line-height:1.6em">
+                                            Need Help? <br/>Contact the <a href="https://protect.checkpoint.com/v2/___https://www.ibm.com/account/profile/us?page=reghelpdesk___.YzJ1Omh1ZHNvbnNiYXljb21wYW55OmM6Zzo1MWE3ZmIyZDNiYzVjNWUxOWEyYzc5YzE5ZGNhNDRhMzo2OmIyZDg6MjBhNGU1OGMwOTc3NmRiZjRiMjM3YWRjMzgzYzM2YWRlN2ViODRhYzFhMWI2YWNlNDFjYWJhOGVlODdjMzkzMjpoOlQ" title="Protected by Check Point: https://www.ibm.com/account/profile/us?page=reghelpdesk"
+                                                style="color:#B7ADAD; text-decoration:underline;" target="_blank">helpdesk</a>
+                                        </td>
+                                        <td style="background-color:#000; padding:20px 0px; color:#B7ADAD; font-size:10px; line-height:1.6em"
+                                            align="right">© Copyright IBM Corporation 2021
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td></td>
+            </tr>
+        </table>
+        </body>
+      </html>
+ 
+2024-06-14 08:37:48,078 INFO  [Log] OTP captured from mail body: 2238-772811 
+2024-06-14 08:37:48,080 INFO  [Log] Split OTP by - 
+2024-06-14 08:37:48,080 INFO  [Log] Entering verification code in IBM page.... 
+2024-06-14 08:37:48,080 INFO  [Log] Verification code: 772811 
+2024-06-14 08:37:53,615 INFO  [Log] Verification code entered 
+2024-06-14 08:37:53,970 INFO  [Log] Updated columns for id: 535 
+2024-06-14 08:37:53,972 INFO  [Log] Reading OMS DB Query input file... 
+2024-06-14 08:37:55,797 INFO  [Log] Worksheet: ProposedTemplate_30Minutes 
+2024-06-14 08:37:55,805 INFO  [Log] Rows count: 64 
+2024-06-14 08:37:55,805 INFO  [Log] Column count: 28 
+2024-06-14 08:37:56,078 INFO  [Log] Query Create Order CallCenter Count is not in runtime window 
+2024-06-14 08:37:56,079 INFO  [Log] Query Create Order POS Count is not in runtime window 
+2024-06-14 08:37:56,079 INFO  [Log] Query: Order Release counts to DC 
+2024-06-14 08:37:56,079 INFO  [Log] Query Order Release counts to DC is in runtime window 
+2024-06-14 08:38:05,117 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:38:05,180 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 08:38:05,181 INFO  [Log] count value: 10 
+2024-06-14 08:38:05,181 INFO  [Log] Query: Order Release counts to Store 
+2024-06-14 08:38:05,181 INFO  [Log] Query Order Release counts to Store is in runtime window 
+2024-06-14 08:38:08,073 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:38:08,135 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 08:38:08,135 INFO  [Log] count value: 11 
+2024-06-14 08:38:08,135 INFO  [Log] Query: Order Release-Vendor 
+2024-06-14 08:38:08,135 INFO  [Log] Query Order Release-Vendor is in runtime window 
+2024-06-14 08:38:11,006 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:38:11,067 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 08:38:11,068 INFO  [Log] count value: 49 
+2024-06-14 08:38:11,068 INFO  [Log] Query Shipment - DC is not in runtime window 
+2024-06-14 08:38:11,068 INFO  [Log] Query: Shipments - Store Packed 
+2024-06-14 08:38:11,068 INFO  [Log] Query Shipments - Store Packed is in runtime window 
+2024-06-14 08:38:12,268 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:39:12,711 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:39:12,711 INFO  [Log] count value: 50 
+2024-06-14 08:39:12,711 INFO  [Log] Query Shipment - Vendor is not in runtime window 
+2024-06-14 08:39:12,711 INFO  [Log] Query: Emails 
+2024-06-14 08:39:12,712 INFO  [Log] Query Emails is in runtime window 
+2024-06-14 08:39:14,405 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:40:14,832 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:40:14,833 INFO  [Log] count value: 24 
+2024-06-14 08:40:14,833 INFO  [Log] Query Invoices  Sales - Published is not in runtime window 
+2024-06-14 08:40:14,833 INFO  [Log] Query Create Return is not in runtime window 
+2024-06-14 08:40:14,833 INFO  [Log] Query: Data Extraction 
+2024-06-14 08:40:14,833 INFO  [Log] Query Data Extraction is in runtime window 
+2024-06-14 08:40:15,949 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:41:16,372 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:41:16,372 INFO  [Log] count value: 100 
+2024-06-14 08:41:16,373 INFO  [Log] Query Backorders in last three hours is not in runtime window 
+2024-06-14 08:41:16,373 INFO  [Log] Query Total System Cancellations in last twenty four hours is not in runtime window 
+2024-06-14 08:41:16,373 INFO  [Log] Query Total Cancellations in last twenty four hours  is not in runtime window 
+2024-06-14 08:41:16,373 INFO  [Log] Query Create Order Online Count is not in runtime window 
+2024-06-14 08:41:16,373 INFO  [Log] Query: Schedule Backlog 
+2024-06-14 08:41:16,373 INFO  [Log] Query Schedule Backlog is in runtime window 
+2024-06-14 08:41:17,526 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:42:18,066 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:42:18,066 INFO  [Log] count value: 50 
+2024-06-14 08:42:18,066 INFO  [Log] Query: Release Backlog 
+2024-06-14 08:42:18,066 INFO  [Log] Query Release Backlog is in runtime window 
+2024-06-14 08:42:19,221 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:43:19,590 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:43:19,591 INFO  [Log] count value: 50 
+2024-06-14 08:43:19,591 INFO  [Log] Query Shipment - Store Shipped is not in runtime window 
+2024-06-14 08:43:19,591 INFO  [Log] Query Emails DB-CancelEmailService is not in runtime window 
+2024-06-14 08:43:19,591 INFO  [Log] Query Emails DB-HBCCreateConfirmShipmentEmailService is not in runtime window 
+2024-06-14 08:43:19,591 INFO  [Log] Query Emails DB-HBCOrderCustomerPickedUpEmail is not in runtime window 
+2024-06-14 08:43:19,592 INFO  [Log] Query Emails DB-HBCOrderPickupReminderEmail  is not in runtime window 
+2024-06-14 08:43:19,592 INFO  [Log] Query Emails DB-HBCOrderReadyForCustomerPickupEmail is not in runtime window 
+2024-06-14 08:43:19,592 INFO  [Log] Query Emails DB-HBCOrderShippedEmail is not in runtime window 
+2024-06-14 08:43:19,592 INFO  [Log] Query Emails DB-HBCReturnOrderInvoiceCreationEmailService is not in runtime window 
+2024-06-14 08:43:19,592 INFO  [Log] Query: Emails DB-HBCWebOrderCreateEmailService 
+2024-06-14 08:43:19,592 INFO  [Log] Query Emails DB-HBCWebOrderCreateEmailService is in runtime window 
+2024-06-14 08:43:20,624 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:44:20,993 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:44:20,994 INFO  [Log] count value: 146 
+2024-06-14 08:44:20,994 INFO  [Log] Query: MP-LN-HOLD count in last seven days 
+2024-06-14 08:44:20,994 INFO  [Log] Query MP-LN-HOLD count in last seven days is in runtime window 
+2024-06-14 08:44:22,103 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:45:22,444 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:45:22,444 INFO  [Log] count value: 50 
+2024-06-14 08:45:22,444 INFO  [Log] Query: BUYER-REMORSE hold count in last seven days 
+2024-06-14 08:45:22,445 INFO  [Log] Query BUYER-REMORSE hold count in last seven days is in runtime window 
+2024-06-14 08:45:23,560 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:46:23,911 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:46:23,911 INFO  [Log] count value: 50 
+2024-06-14 08:46:23,911 INFO  [Log] Query: MAX-AUTH-HOLD hold count in last seven days 
+2024-06-14 08:46:23,911 INFO  [Log] Query MAX-AUTH-HOLD hold count in last seven days is in runtime window 
+2024-06-14 08:46:25,017 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:47:25,363 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:47:25,364 INFO  [Log] count value: 50 
+2024-06-14 08:47:25,364 INFO  [Log] Query: CREDIT-HOLD  hold count in last seven days 
+2024-06-14 08:47:25,364 INFO  [Log] Query CREDIT-HOLD  hold count in last seven days is in runtime window 
+2024-06-14 08:47:26,447 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:48:26,775 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:48:26,775 INFO  [Log] count value: 50 
+2024-06-14 08:48:26,775 INFO  [Log] Query: PAYPAL-FAIL  hold count in last seven days 
+2024-06-14 08:48:26,776 INFO  [Log] Query PAYPAL-FAIL  hold count in last seven days is in runtime window 
+2024-06-14 08:48:27,865 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:49:28,200 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:49:28,201 INFO  [Log] count value: 50 
+2024-06-14 08:49:28,201 INFO  [Log] Query: INCORRECT-DATA  hold count in last seven days 
+2024-06-14 08:49:28,201 INFO  [Log] Query INCORRECT-DATA  hold count in last seven days is in runtime window 
+2024-06-14 08:49:29,293 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:50:29,628 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:50:29,628 INFO  [Log] count value: 50 
+2024-06-14 08:50:29,628 INFO  [Log] Query: TOKEN-HOLD  hold count in last seven days 
+2024-06-14 08:50:29,628 INFO  [Log] Query TOKEN-HOLD  hold count in last seven days is in runtime window 
+2024-06-14 08:50:30,710 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:51:31,051 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:51:31,051 INFO  [Log] count value: 50 
+2024-06-14 08:51:31,052 INFO  [Log] Query: AUTH-HOLD  hold count in last seven days 
+2024-06-14 08:51:31,052 INFO  [Log] Query AUTH-HOLD  hold count in last seven days is in runtime window 
+2024-06-14 08:51:32,140 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:52:32,485 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:52:32,485 INFO  [Log] count value: 50 
+2024-06-14 08:52:32,485 INFO  [Log] Query: FRAUD-HOLD  hold count in last seven days 
+2024-06-14 08:52:32,485 INFO  [Log] Query FRAUD-HOLD  hold count in last seven days is in runtime window 
+2024-06-14 08:52:33,583 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:53:33,924 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:53:33,924 INFO  [Log] count value: 50 
+2024-06-14 08:53:33,925 INFO  [Log] Query: RO-NOT-PUBLISHED  hold count in last seven days 
+2024-06-14 08:53:33,925 INFO  [Log] Query RO-NOT-PUBLISHED  hold count in last seven days is in runtime window 
+2024-06-14 08:53:34,998 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:54:35,328 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:54:35,328 INFO  [Log] count value: 50 
+2024-06-14 08:54:35,329 INFO  [Log] Query: INCORRECT_DATA not cancelled and older than seven Days 
+2024-06-14 08:54:35,329 INFO  [Log] Query INCORRECT_DATA not cancelled and older than seven Days is in runtime window 
+2024-06-14 08:54:36,421 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:55:36,758 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:55:36,758 INFO  [Log] count value: 50 
+2024-06-14 08:55:36,758 INFO  [Log] Query: AUTH_HOLD not cancelled and older than seven Days 
+2024-06-14 08:55:36,758 INFO  [Log] Query AUTH_HOLD not cancelled and older than seven Days is in runtime window 
+2024-06-14 08:55:37,835 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:56:38,183 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:56:38,184 INFO  [Log] count value: 50 
+2024-06-14 08:56:38,184 INFO  [Log] Query: FRAUD_HOLD not cancelled and older than seven Days 
+2024-06-14 08:56:38,184 INFO  [Log] Query FRAUD_HOLD not cancelled and older than seven Days is in runtime window 
+2024-06-14 08:56:39,266 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:57:39,609 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:57:39,609 INFO  [Log] count value: 50 
+2024-06-14 08:57:39,609 INFO  [Log] Query: TOKEN_HOLD not cancelled and older than seven Days 
+2024-06-14 08:57:39,609 INFO  [Log] Query TOKEN_HOLD not cancelled and older than seven Days is in runtime window 
+2024-06-14 08:57:40,700 INFO  [Log] Loader disappeared: true 
+2024-06-14 08:58:41,043 INFO  [Log] Checking for Result count with one column 
+2024-06-14 08:58:41,043 INFO  [Log] count value: 50 
+2024-06-14 08:58:41,043 INFO  [Log] Query: MP in Created status and older than seven Days 
+2024-06-14 08:58:41,043 INFO  [Log] Query MP in Created status and older than seven Days is in runtime window 
+2024-06-14 09:00:42,338 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:02:42,957 INFO  [Log] Checking for error message with one column 
+2024-06-14 09:02:42,957 ERROR [Log] count value: 50 
+2024-06-14 09:02:42,957 INFO  [Log] Query: Backorders older than seven days 
+2024-06-14 09:02:42,957 INFO  [Log] Query Backorders older than seven days is in runtime window 
+2024-06-14 09:02:44,133 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:03:44,471 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:03:44,471 INFO  [Log] count value: 50 
+2024-06-14 09:03:44,471 INFO  [Log] Query: Open Orders older than Fifteen days 
+2024-06-14 09:03:44,471 INFO  [Log] Query Open Orders older than Fifteen days is in runtime window 
+2024-06-14 09:03:46,684 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:04:47,011 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:04:47,012 INFO  [Log] count value: 50 
+2024-06-14 09:04:47,012 INFO  [Log] Query: Scheudle Looping 
+2024-06-14 09:04:47,012 INFO  [Log] Query Scheudle Looping is in runtime window 
+2024-06-14 09:04:48,948 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:04:49,002 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:04:49,002 INFO  [Log] count value: 50 
+2024-06-14 09:04:49,002 INFO  [Log] Query: Open Order from DC greater seven Days 
+2024-06-14 09:04:49,002 INFO  [Log] Query Open Order from DC greater seven Days is in runtime window 
+2024-06-14 09:06:31,239 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:06:31,293 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:06:31,293 INFO  [Log] count value: 50 
+2024-06-14 09:06:31,293 INFO  [Log] Query: Open Orders from Stores greater seven Days 
+2024-06-14 09:06:31,293 INFO  [Log] Query Open Orders from Stores greater seven Days is in runtime window 
+2024-06-14 09:06:32,455 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:06:32,508 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:06:32,508 INFO  [Log] count value: 50 
+2024-06-14 09:06:32,508 INFO  [Log] Query: Open Orders from DropShip greater seven Days 
+2024-06-14 09:06:32,508 INFO  [Log] Query Open Orders from DropShip greater seven Days is in runtime window 
+2024-06-14 09:06:33,644 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:07:33,986 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:07:33,986 INFO  [Log] count value: 50 
+2024-06-14 09:07:33,986 INFO  [Log] Query: Exceptions - Monitoring 
+2024-06-14 09:07:33,986 INFO  [Log] Query Exceptions - Monitoring is in runtime window 
+2024-06-14 09:07:35,246 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:07:35,300 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:07:35,300 INFO  [Log] count value: 50 
+2024-06-14 09:07:35,300 INFO  [Log] Query: Payments 
+2024-06-14 09:07:35,300 INFO  [Log] Query Payments is in runtime window 
+2024-06-14 09:07:41,316 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:07:41,371 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:07:41,372 INFO  [Log] count value: 50 
+2024-06-14 09:07:41,372 INFO  [Log] Query: PAYBRIGHT_HOLD in last seven days 
+2024-06-14 09:07:41,372 INFO  [Log] Query PAYBRIGHT_HOLD in last seven days is in runtime window 
+2024-06-14 09:07:42,477 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:08:42,807 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:08:42,808 INFO  [Log] count value: 50 
+2024-06-14 09:08:42,808 INFO  [Log] Query: HBCIntegrationRetry table alert 
+2024-06-14 09:08:42,808 INFO  [Log] Query HBCIntegrationRetry table alert is in runtime window 
+2024-06-14 09:08:43,800 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:09:44,135 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:09:44,135 INFO  [Log] count value: 50 
+2024-06-14 09:09:44,135 INFO  [Log] Query: Exceptions- CreateOrder 
+2024-06-14 09:09:44,135 INFO  [Log] Query Exceptions- CreateOrder is in runtime window 
+2024-06-14 09:09:45,252 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:10:45,592 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:10:45,592 INFO  [Log] count value: 50 
+2024-06-14 09:10:45,592 INFO  [Log] Query: Invoices Sales - Backlog older than a Day 
+2024-06-14 09:10:45,592 INFO  [Log] Query Invoices Sales - Backlog older than a Day is in runtime window 
+2024-06-14 09:10:46,791 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:11:47,232 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:11:47,233 INFO  [Log] count value: 50 
+2024-06-14 09:11:47,233 INFO  [Log] Query: Invoices Sales - Backlog count higher 
+2024-06-14 09:11:47,233 INFO  [Log] Query Invoices Sales - Backlog count higher is in runtime window 
+2024-06-14 09:11:48,420 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:12:48,746 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:12:48,746 INFO  [Log] count value: 50 
+2024-06-14 09:12:48,746 INFO  [Log] Query: Transaction ID Generation 
+2024-06-14 09:12:48,746 INFO  [Log] Query Transaction ID Generation is in runtime window 
+2024-06-14 09:12:54,738 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:12:54,791 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:12:54,791 INFO  [Log] count value: 0 
+2024-06-14 09:12:54,791 INFO  [Log] Query: Capacity Consumption crossed currentDay+2 days for one or more ShipNode 
+2024-06-14 09:12:54,791 INFO  [Log] Query Capacity Consumption crossed currentDay+2 days for one or more ShipNode is in runtime window 
+2024-06-14 09:12:57,468 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:12:57,521 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:12:57,522 INFO  [Log] count value: 50 
+2024-06-14 09:12:57,522 INFO  [Log] Query: Dropship Cancel in last 7 days 
+2024-06-14 09:12:57,522 INFO  [Log] Query Dropship Cancel in last 7 days is in runtime window 
+2024-06-14 09:13:24,683 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:13:24,736 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:13:24,736 INFO  [Log] count value: 40 
+2024-06-14 09:13:24,736 INFO  [Log] Query: Orders having qty greater than 98 
+2024-06-14 09:13:24,736 INFO  [Log] Query Orders having qty greater than 98 is in runtime window 
+2024-06-14 09:13:26,487 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:13:26,539 INFO  [Log] Checking for Result count with multiple column 
+2024-06-14 09:13:26,539 INFO  [Log] count value: 50 
+2024-06-14 09:13:26,540 INFO  [Log] Query: Item Feed - Not received in twenty four hours 
+2024-06-14 09:13:26,540 INFO  [Log] Query Item Feed - Not received in twenty four hours is in runtime window 
+2024-06-14 09:14:37,324 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:15:37,638 INFO  [Log] Checking for Result count with one column 
+2024-06-14 09:15:37,639 INFO  [Log] count value: 12173 
+2024-06-14 09:15:37,639 INFO  [Log] Query: Price Feed - Not received in twenty four hours 
+2024-06-14 09:15:37,639 INFO  [Log] Query Price Feed - Not received in twenty four hours is in runtime window 
+2024-06-14 09:17:38,351 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:19:38,932 INFO  [Log] Checking for error message with one column 
+2024-06-14 09:19:38,932 ERROR [Log] count value: 12173 
+2024-06-14 09:19:38,932 INFO  [Log] Query: BAY OMS Online Orders Created in Last 30 mins 
+2024-06-14 09:19:38,932 INFO  [Log] Query BAY OMS Online Orders Created in Last 30 mins is in runtime window 
+2024-06-14 09:21:39,696 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:23:40,266 INFO  [Log] Checking for error message with one column 
+2024-06-14 09:23:40,266 ERROR [Log] count value: 12173 
+2024-06-14 09:23:40,266 INFO  [Log] Query: BAY OMS Call Center Orders Created in Last 30 mins 
+2024-06-14 09:23:40,266 INFO  [Log] Query BAY OMS Call Center Orders Created in Last 30 mins is in runtime window 
+2024-06-14 09:23:53,619 INFO  [Log] Loader disappeared: true 
+2024-06-14 09:26:54,335 INFO  [Log] Queue name: Create Order CallCenter Count 
+2024-06-14 09:26:54,335 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,335 INFO  [Log] Critical threshold: 1 
+2024-06-14 09:26:54,335 INFO  [Log] Result count:  
+2024-06-14 09:26:54,335 INFO  [Log] Result value is blank for Alert: Create Order CallCenter Count 
+2024-06-14 09:26:54,335 INFO  [Log] Queue name: Create Order POS Count 
+2024-06-14 09:26:54,335 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,335 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,335 INFO  [Log] Result count:  
+2024-06-14 09:26:54,336 INFO  [Log] Result value is blank for Alert: Create Order POS Count 
+2024-06-14 09:26:54,336 INFO  [Log] Queue name: Order Release counts to DC 
+2024-06-14 09:26:54,336 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,336 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,336 INFO  [Log] Result count: 10 
+2024-06-14 09:26:54,336 INFO  [Log] Adding item to warning hashmap: Order Release counts to DC 
+2024-06-14 09:26:54,336 INFO  [Log] Queue name: Order Release counts to Store 
+2024-06-14 09:26:54,336 INFO  [Log] Warning threshold: 5 
+2024-06-14 09:26:54,336 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,336 INFO  [Log] Result count: 11 
+2024-06-14 09:26:54,336 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,336 INFO  [Log] Queue name: Order Release-Vendor 
+2024-06-14 09:26:54,336 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,336 INFO  [Log] Critical threshold: 3 
+2024-06-14 09:26:54,336 INFO  [Log] Result count: 49 
+2024-06-14 09:26:54,336 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,336 INFO  [Log] Queue name: Shipment - DC 
+2024-06-14 09:26:54,336 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,336 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,336 INFO  [Log] Result count:  
+2024-06-14 09:26:54,336 INFO  [Log] Result value is blank for Alert: Shipment - DC 
+2024-06-14 09:26:54,336 INFO  [Log] Queue name: Shipments - Store Packed 
+2024-06-14 09:26:54,337 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,337 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,337 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,337 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,337 INFO  [Log] Queue name: Shipment - Vendor 
+2024-06-14 09:26:54,337 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,337 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,337 INFO  [Log] Result count:  
+2024-06-14 09:26:54,337 INFO  [Log] Result value is blank for Alert: Shipment - Vendor 
+2024-06-14 09:26:54,337 INFO  [Log] Queue name: Emails 
+2024-06-14 09:26:54,337 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,337 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,337 INFO  [Log] Result count: 24 
+2024-06-14 09:26:54,337 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,337 INFO  [Log] Queue name: Invoices  Sales - Published 
+2024-06-14 09:26:54,337 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,337 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,337 INFO  [Log] Result count:  
+2024-06-14 09:26:54,337 INFO  [Log] Result value is blank for Alert: Invoices  Sales - Published 
+2024-06-14 09:26:54,337 INFO  [Log] Queue name: Create Return 
+2024-06-14 09:26:54,337 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,337 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,337 INFO  [Log] Result count:  
+2024-06-14 09:26:54,337 INFO  [Log] Result value is blank for Alert: Create Return 
+2024-06-14 09:26:54,337 INFO  [Log] Queue name: Data Extraction 
+2024-06-14 09:26:54,337 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,337 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,337 INFO  [Log] Result count: 100 
+2024-06-14 09:26:54,338 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,338 INFO  [Log] Queue name: Backorders in last three hours 
+2024-06-14 09:26:54,338 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,338 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,338 INFO  [Log] Result count:  
+2024-06-14 09:26:54,338 INFO  [Log] Result value is blank for Alert: Backorders in last three hours 
+2024-06-14 09:26:54,338 INFO  [Log] Queue name: Total System Cancellations in last twenty four hours 
+2024-06-14 09:26:54,338 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,338 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,338 INFO  [Log] Result count:  
+2024-06-14 09:26:54,338 INFO  [Log] Result value is blank for Alert: Total System Cancellations in last twenty four hours 
+2024-06-14 09:26:54,338 INFO  [Log] Queue name: Total Cancellations in last twenty four hours  
+2024-06-14 09:26:54,338 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,338 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,338 INFO  [Log] Result count:  
+2024-06-14 09:26:54,338 INFO  [Log] Result value is blank for Alert: Total Cancellations in last twenty four hours  
+2024-06-14 09:26:54,338 INFO  [Log] Queue name: Create Order Online Count 
+2024-06-14 09:26:54,338 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,338 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,338 INFO  [Log] Result count:  
+2024-06-14 09:26:54,338 INFO  [Log] Result value is blank for Alert: Create Order Online Count 
+2024-06-14 09:26:54,338 INFO  [Log] Queue name: Schedule Backlog 
+2024-06-14 09:26:54,338 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,338 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,338 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,338 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,338 INFO  [Log] Queue name: Release Backlog 
+2024-06-14 09:26:54,339 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,339 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,339 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,339 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,339 INFO  [Log] Queue name: Shipment - Store Shipped 
+2024-06-14 09:26:54,339 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,339 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,339 INFO  [Log] Result count:  
+2024-06-14 09:26:54,339 INFO  [Log] Result value is blank for Alert: Shipment - Store Shipped 
+2024-06-14 09:26:54,339 INFO  [Log] Queue name: Emails DB-CancelEmailService 
+2024-06-14 09:26:54,339 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,339 INFO  [Log] Critical threshold: 4 
+2024-06-14 09:26:54,339 INFO  [Log] Result count:  
+2024-06-14 09:26:54,339 INFO  [Log] Result value is blank for Alert: Emails DB-CancelEmailService 
+2024-06-14 09:26:54,339 INFO  [Log] Queue name: Emails DB-HBCCreateConfirmShipmentEmailService 
+2024-06-14 09:26:54,339 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,339 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,339 INFO  [Log] Result count:  
+2024-06-14 09:26:54,339 INFO  [Log] Result value is blank for Alert: Emails DB-HBCCreateConfirmShipmentEmailService 
+2024-06-14 09:26:54,339 INFO  [Log] Queue name: Emails DB-HBCOrderCustomerPickedUpEmail 
+2024-06-14 09:26:54,339 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,339 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,339 INFO  [Log] Result count:  
+2024-06-14 09:26:54,339 INFO  [Log] Result value is blank for Alert: Emails DB-HBCOrderCustomerPickedUpEmail 
+2024-06-14 09:26:54,339 INFO  [Log] Queue name: Emails DB-HBCOrderPickupReminderEmail  
+2024-06-14 09:26:54,339 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,339 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,339 INFO  [Log] Result count:  
+2024-06-14 09:26:54,340 INFO  [Log] Result value is blank for Alert: Emails DB-HBCOrderPickupReminderEmail  
+2024-06-14 09:26:54,340 INFO  [Log] Queue name: Emails DB-HBCOrderReadyForCustomerPickupEmail 
+2024-06-14 09:26:54,340 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,340 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,340 INFO  [Log] Result count:  
+2024-06-14 09:26:54,340 INFO  [Log] Result value is blank for Alert: Emails DB-HBCOrderReadyForCustomerPickupEmail 
+2024-06-14 09:26:54,340 INFO  [Log] Queue name: Emails DB-HBCOrderShippedEmail 
+2024-06-14 09:26:54,340 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,340 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,340 INFO  [Log] Result count:  
+2024-06-14 09:26:54,340 INFO  [Log] Result value is blank for Alert: Emails DB-HBCOrderShippedEmail 
+2024-06-14 09:26:54,340 INFO  [Log] Queue name: Emails DB-HBCReturnOrderInvoiceCreationEmailService 
+2024-06-14 09:26:54,340 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,340 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,340 INFO  [Log] Result count:  
+2024-06-14 09:26:54,340 INFO  [Log] Result value is blank for Alert: Emails DB-HBCReturnOrderInvoiceCreationEmailService 
+2024-06-14 09:26:54,340 INFO  [Log] Queue name: Emails DB-HBCWebOrderCreateEmailService 
+2024-06-14 09:26:54,340 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,340 INFO  [Log] Critical threshold: 5 
+2024-06-14 09:26:54,340 INFO  [Log] Result count: 146 
+2024-06-14 09:26:54,340 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,340 INFO  [Log] Queue name: MP-LN-HOLD count in last seven days 
+2024-06-14 09:26:54,340 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,340 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,340 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,340 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,341 INFO  [Log] Queue name: BUYER-REMORSE hold count in last seven days 
+2024-06-14 09:26:54,341 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,341 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,341 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,341 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,341 INFO  [Log] Queue name: MAX-AUTH-HOLD hold count in last seven days 
+2024-06-14 09:26:54,341 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,341 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,341 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,341 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,341 INFO  [Log] Queue name: CREDIT-HOLD  hold count in last seven days 
+2024-06-14 09:26:54,341 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,341 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,341 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,341 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,341 INFO  [Log] Queue name: PAYPAL-FAIL  hold count in last seven days 
+2024-06-14 09:26:54,341 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,341 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,341 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,341 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,341 INFO  [Log] Queue name: INCORRECT-DATA  hold count in last seven days 
+2024-06-14 09:26:54,341 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,341 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,341 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,341 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,341 INFO  [Log] Queue name: TOKEN-HOLD  hold count in last seven days 
+2024-06-14 09:26:54,341 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,341 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,341 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,342 INFO  [Log] Queue name: AUTH-HOLD  hold count in last seven days 
+2024-06-14 09:26:54,342 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,342 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,342 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,342 INFO  [Log] Queue name: FRAUD-HOLD  hold count in last seven days 
+2024-06-14 09:26:54,342 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,342 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,342 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,342 INFO  [Log] Queue name: RO-NOT-PUBLISHED  hold count in last seven days 
+2024-06-14 09:26:54,342 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,342 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,342 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,342 INFO  [Log] Queue name: INCORRECT_DATA not cancelled and older than seven Days 
+2024-06-14 09:26:54,342 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,342 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,342 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,342 INFO  [Log] Queue name: AUTH_HOLD not cancelled and older than seven Days 
+2024-06-14 09:26:54,342 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,342 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,342 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,342 INFO  [Log] Queue name: FRAUD_HOLD not cancelled and older than seven Days 
+2024-06-14 09:26:54,342 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,342 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,342 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,342 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,343 INFO  [Log] Queue name: TOKEN_HOLD not cancelled and older than seven Days 
+2024-06-14 09:26:54,343 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,343 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,343 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,343 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,343 INFO  [Log] Queue name: MP in Created status and older than seven Days 
+2024-06-14 09:26:54,343 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,343 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,343 INFO  [Log] Result count: Please tune your query so that it runs within the specified time.
+Processing was cancelled due to an interrupt.. SQLCODE=-952, SQLSTATE=57014, DRIVER=4.32.28 
+2024-06-14 09:26:54,343 INFO  [Log] Queue name: Backorders older than seven days 
+2024-06-14 09:26:54,343 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,343 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,343 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,343 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,343 INFO  [Log] Queue name: Open Orders older than Fifteen days 
+2024-06-14 09:26:54,343 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,343 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,343 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,343 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,343 INFO  [Log] Queue name: Scheudle Looping 
+2024-06-14 09:26:54,343 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,343 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,343 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,343 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,343 INFO  [Log] Queue name: Open Order from DC greater seven Days 
+2024-06-14 09:26:54,343 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,343 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,344 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,344 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,344 INFO  [Log] Queue name: Open Orders from Stores greater seven Days 
+2024-06-14 09:26:54,344 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,344 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,344 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,344 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,344 INFO  [Log] Queue name: Open Orders from DropShip greater seven Days 
+2024-06-14 09:26:54,344 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,344 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,344 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,344 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,344 INFO  [Log] Queue name: Exceptions - Monitoring 
+2024-06-14 09:26:54,344 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,344 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,344 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,344 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,344 INFO  [Log] Queue name: Payments 
+2024-06-14 09:26:54,344 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,344 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,344 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,344 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,344 INFO  [Log] Queue name: PAYBRIGHT_HOLD in last seven days 
+2024-06-14 09:26:54,344 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,344 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,344 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,344 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,345 INFO  [Log] Queue name: HBCIntegrationRetry table alert 
+2024-06-14 09:26:54,345 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,345 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,345 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,345 INFO  [Log] Queue name: Exceptions- CreateOrder 
+2024-06-14 09:26:54,345 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,345 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,345 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,345 INFO  [Log] Queue name: Invoices Sales - Backlog older than a Day 
+2024-06-14 09:26:54,345 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,345 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,345 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,345 INFO  [Log] Queue name: Invoices Sales - Backlog count higher 
+2024-06-14 09:26:54,345 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,345 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,345 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,345 INFO  [Log] Queue name: Transaction ID Generation 
+2024-06-14 09:26:54,345 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,345 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Result count: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Adding item to critical hashmap: Transaction ID Generation 
+2024-06-14 09:26:54,345 INFO  [Log] Queue name: Capacity Consumption crossed currentDay+2 days for one or more ShipNode 
+2024-06-14 09:26:54,345 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,345 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,345 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,345 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,346 INFO  [Log] Queue name: Dropship Cancel in last 7 days 
+2024-06-14 09:26:54,346 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,346 INFO  [Log] Critical threshold: 3 
+2024-06-14 09:26:54,346 INFO  [Log] Result count: 40 
+2024-06-14 09:26:54,346 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,346 INFO  [Log] Queue name: Orders having qty greater than 98 
+2024-06-14 09:26:54,346 INFO  [Log] Warning threshold: 10 
+2024-06-14 09:26:54,346 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,346 INFO  [Log] Result count: 50 
+2024-06-14 09:26:54,346 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,346 INFO  [Log] Queue name: Item Feed - Not received in twenty four hours 
+2024-06-14 09:26:54,346 INFO  [Log] Warning threshold: 100 
+2024-06-14 09:26:54,346 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,346 INFO  [Log] Result count: 12173 
+2024-06-14 09:26:54,346 INFO  [Log] No warning or critical values 
+2024-06-14 09:26:54,346 INFO  [Log] Queue name: Price Feed - Not received in twenty four hours 
+2024-06-14 09:26:54,346 INFO  [Log] Warning threshold: 100 
+2024-06-14 09:26:54,346 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,346 INFO  [Log] Result count: Please tune your query so that it runs within the specified time.
+Processing was cancelled due to an interrupt.. SQLCODE=-952, SQLSTATE=57014, DRIVER=4.32.28 
+2024-06-14 09:26:54,346 INFO  [Log] Queue name: BAY OMS Online Orders Created in Last 30 mins 
+2024-06-14 09:26:54,346 INFO  [Log] Warning threshold: 5 
+2024-06-14 09:26:54,346 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,346 INFO  [Log] Result count: Please tune your query so that it runs within the specified time.
+Processing was cancelled due to an interrupt.. SQLCODE=-952, SQLSTATE=57014, DRIVER=4.32.28 
+2024-06-14 09:26:54,346 INFO  [Log] Queue name: BAY OMS Call Center Orders Created in Last 30 mins 
+2024-06-14 09:26:54,346 INFO  [Log] Warning threshold: 5 
+2024-06-14 09:26:54,346 INFO  [Log] Critical threshold: 0 
+2024-06-14 09:26:54,346 INFO  [Log] Result count: Count Column not Found for AlertName BAY OMS Call Center Orders Created in Last 30 mins 
+2024-06-14 09:26:54,348 INFO  [Log] Sending Critical email alert 
+2024-06-14 09:26:54,354 INFO  [Log] No Attachments Supplied for the Email 
+2024-06-14 09:26:54,600 INFO  [Log] Email sent successfully. 
+2024-06-14 09:26:54,600 INFO  [Log] Sending warning email alert 
+2024-06-14 09:26:54,602 INFO  [Log] No Attachments Supplied for the Email 
+2024-06-14 09:26:54,813 INFO  [Log] Email sent successfully. 
+2024-06-14 09:26:54,819 INFO  [Log] Updated columns for id: 535 
+2024-06-14 09:26:54,819 INFO  [Log] Updating Transaction status 
