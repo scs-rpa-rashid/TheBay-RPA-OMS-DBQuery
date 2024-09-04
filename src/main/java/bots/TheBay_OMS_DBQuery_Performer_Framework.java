@@ -190,6 +190,7 @@ public class TheBay_OMS_DBQuery_Performer_Framework {
 
     public void endProcess() throws Exception {
         try {
+            driver.close();
             driver.quit();
         }
         catch (Exception e)
