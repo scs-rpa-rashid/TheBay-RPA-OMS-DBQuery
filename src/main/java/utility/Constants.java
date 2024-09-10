@@ -14,7 +14,7 @@ public class Constants {
    public  static String INPUT_FILE="\\\\10.124.234.5\\FileServer\\OMSQueueMonitoring\\ThresholdLimitFile\\BAY OMoC Monitoring via RPA.xlsx";
    public static String OMS_URL = "https://hudsn-prod-1.oms.supply-chain.ibm.com/smcfs/yfshttpdbi/sterlingdbqueryclient.jsp";
    public static  String USER_NAME = "srvc_oms_automation@hbc.com";
-   public static String PASSWORD = "HBCINDIAPassw0rd2024";
+   public static String PASSWORD = "HBCINDIAPassw0rd202409";
    public static Duration WAIT_TIME = Duration.ofSeconds(60);
    public static Duration LOADER_WAIT_TIME = Duration.ofSeconds(180);
     public static Duration LOGIN_ERROR_WAIT_TIME=Duration.ofSeconds(10);
