@@ -41,7 +41,7 @@ public class Constants {
 
    public static String WARNING_MAILBODY="Hi Team<br/><br/>The BOT has successfully completed it's run. The queries listed below have either passed the warning threshold or triggered an error in IBM.<br/><br/>Please see below.<br/><br/%s<br/><br/>Regards,<br/><br/>OMS BOT";
 
-public static String MAIL_CC="varunkumar.venkatesh@thebay.com,vishnu.mb@thebay.com,neha.sharma@sakscloudservices.com,haroonrashid.tatagar@sakscloudservices.com";
+public static String MAIL_CC="varunkumar.venkatesh@thebay.com,vishnu.mb@thebay.com,neha.sharma@sakscloudservices.com";
 
 public static String MAIL_BCC="";
 
@@ -49,7 +49,7 @@ public static String MAIL_BCC="";
 
    public static String SENDMAIL_PASSWORD="xnzicmnejdvfxnzx";
 
-   public static String EXCEPTION_MAILTO="varunkumar.venkatesh@thebay.com,vishnu.mb@thebay.com,neha.sharma@sakscloudservices.com,haroonrashid.tatagar@sakscloudservices.com";
+   public static String EXCEPTION_MAILTO="varunkumar.venkatesh@thebay.com,vishnu.mb@thebay.com,neha.sharma@sakscloudservices.com";
 
    public static String MAIL_TO="rpa-support@hbc.com,bayomssupport@hbc.com,R02GYUBNHQ85IJYYA45UGZ2B51IU3KTL@hbcdigital.pagerduty.com,5d9529a4-5bc3-4a14-bfb7-76c9d43a1ae5@saks.opsgenie.net,varunkumar.venkatesh@thebay.com,vishnu.mb@thebay.com,neha.sharma@sakscloudservices.com,haroonrashid.tatagar@sakscloudservices.com";
 
